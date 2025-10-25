@@ -1,3 +1,5 @@
 # это просто текст внутри файла README.md
 
-изменения в конце задания
+this text is for conflict check
+
+
